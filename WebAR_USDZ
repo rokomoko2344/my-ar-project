@@ -6,7 +6,7 @@
     <title>WebAR USDZ</title>
 </head>
 <body>
-    <a href="Screen9,10+Backyard.usdz" rel="ar">
+    <a href="Screen9_10_Backyard.usdz" rel="ar">
         <img src="thumbnail.jpg" alt="View in AR">
     </a>
 </body>
